@@ -1,0 +1,8 @@
+# jira personal access token
+access_key: exampleaccesskey
+# jira ticket number for guild
+task_guild: LM-20
+# jira ticket number for DS
+task_ds: MLFFDEV-3
+# if the worklog is not for the current week, how many weeks is the offset. can be either positive or negative. e.g. -1 means worklog for last week.
+week_offset: 0
