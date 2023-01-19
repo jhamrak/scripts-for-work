@@ -1,0 +1,8 @@
+# hrmaster access token (the part after "Bearer ")
+access_token: exampleaccesstoken
+# start date is fix sysdate, end date is configurable
+end_date: 2023-12-31
+# office days ( 0 - monday, 1 - tuesday, ..., 6 - sunday)
+officedays:
+    - 1
+    - 2
